@@ -1,0 +1,12 @@
+.demo__button  {
+  background-color: skyblue;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 1 rem;
+  margin: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  display: block;
+}
